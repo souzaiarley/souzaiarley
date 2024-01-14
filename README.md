@@ -19,7 +19,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaiarley&layout=compact&theme=dracula" />
 </a>
 
-## Tecnologias que mais uso
+## Tecnologias que mais utilizo
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
