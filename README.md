@@ -1,4 +1,4 @@
-### Olá! Eu sou o Iarley👋
+### Olá! Me chamo Iarley👋
 <br>
 <ul>
   <li>📚 Estudante de Ciência da Computação na Universidade Federal do Ceará</li>
