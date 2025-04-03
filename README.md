@@ -3,6 +3,7 @@
 <ul>
   <li>📚 Estudante de Ciência da Computação na Universidade Federal do Ceará</li>
   <li>✉️ Para contato: <a href="mailto:souzaiarley@alu.ufc.br">souzaiarley@alu.ufc.br</a></li>
+  <li>🖥️ Portfolio: <a href="https://souzaiarley.github.io/Portfolio/</li>">https://souzaiarley.github.io/Portfolio/</li></a>
 <ul/>
 <br>
 
